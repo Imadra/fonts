@@ -1,0 +1,9 @@
+@font-face {
+    font-family: '7fonts_ru_Sansation_Light';
+    src: url('fonts/7fonts_ru_Sansation_Light.eot');
+    src: url('fonts/7fonts_ru_Sansation_Light.eot') format('embedded-opentype'),
+         url('fonts/7fonts_ru_Sansation_Light.woff2') format('woff2'),
+         url('fonts/7fonts_ru_Sansation_Light.woff') format('woff'),
+         url('fonts/7fonts_ru_Sansation_Light.ttf') format('truetype'),
+         url('fonts/7fonts_ru_Sansation_Light.svg#7fonts_ru_Sansation_Light') format('svg');
+}

@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'journalism2';
+    src: url('fonts/journalism2.eot');
+    src: url('fonts/journalism2.eot') format('embedded-opentype'),
+         url('fonts/journalism2.woff2') format('woff2'),
+         url('fonts/journalism2.woff') format('woff'),
+         url('fonts/journalism2.ttf') format('truetype'),
+         url('fonts/journalism2.svg#journalism2') format('svg');
+}

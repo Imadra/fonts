@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Marske';
+    src: url('fonts/Marske.eot');
+    src: url('fonts/Marske.eot') format('embedded-opentype'),
+         url('fonts/Marske.woff2') format('woff2'),
+         url('fonts/Marske.woff') format('woff'),
+         url('fonts/Marske.ttf') format('truetype'),
+         url('fonts/Marske.svg#Marske') format('svg');
+}

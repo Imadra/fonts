@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'exljbrisMuseoCyrl900';
+    src: url('fonts/exljbrisMuseoCyrl900.eot');
+    src: url('fonts/exljbrisMuseoCyrl900.eot') format('embedded-opentype'),
+         url('fonts/exljbrisMuseoCyrl900.woff2') format('woff2'),
+         url('fonts/exljbrisMuseoCyrl900.woff') format('woff'),
+         url('fonts/exljbrisMuseoCyrl900.ttf') format('truetype'),
+         url('fonts/exljbrisMuseoCyrl900.svg#exljbrisMuseoCyrl900') format('svg');
+}
